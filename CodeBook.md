@@ -5,17 +5,23 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##### features.txt file
 + List of 561 different variables
+
 ##### subject_test.txt file
 + Volunteer ID, 1:30
+
 ##### subject_train.txt file
 + Volunteer ID, 1:30
+
 ##### X_test
 + 2947 observations of 561 variables
+
 ##### X_train
 + 7532 observations of 561 variables
+
 ##### y_test
 + 2947 observations of 1 variable
 + 6 different activities
+
 ##### y_train
 + 7532 observations of 1 variable
 + 6 different activities
@@ -33,6 +39,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 #### grep() functions to select mean and standard deviation variable columns
 
 #### Reduced to 79 mean and standard deviation measurements
+
 1	timebodyaccelerometermeanxaxis
 2	timebodyaccelerometermeanyaxis
 3	timebodyaccelerometermeanzaxis
